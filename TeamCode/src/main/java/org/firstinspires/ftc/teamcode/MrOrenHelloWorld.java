@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 
-@Disabled
+
 @Autonomous
 public class MrOrenHelloWorld extends OpMode {
     @Override
